@@ -1,4 +1,4 @@
-rom snake.scale import FileType, scale
+from snake.scale import FileType, scale
 
 
 NAME = "capa"
