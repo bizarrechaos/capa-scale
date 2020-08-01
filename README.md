@@ -1,5 +1,5 @@
 # capa-scale
-[Capa](https://github.com/fireeye/capa) scale for Countercept [Snake](https://github.com/countercept/snake)
+Fireeye [Capa](https://github.com/fireeye/capa) scale for Countercept [Snake](https://github.com/countercept/snake)
 
 ## Disclaimer
 
